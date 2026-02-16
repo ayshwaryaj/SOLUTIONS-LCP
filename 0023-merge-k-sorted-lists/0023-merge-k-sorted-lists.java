@@ -1,7 +1,5 @@
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-//        if (list1 == null) return list2;
-//        if (list2 == null) return list1; 
         if(lists.length==0)
             return null;
         else if(lists.length == 1)
