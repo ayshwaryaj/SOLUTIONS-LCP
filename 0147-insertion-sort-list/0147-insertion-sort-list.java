@@ -12,8 +12,8 @@ class Solution {
     public ListNode insertionSortList(ListNode head) {
         if (head == null || head.next == null) return head;
 
-        ListNode current = head.next;  // start from second node
-        ListNode sortedEnd = head;     // end of the sorted part
+        ListNode current = head.next;  
+        ListNode sortedEnd = head;     
 
         while (current != null) {
             if (current.val >= sortedEnd.val) {
