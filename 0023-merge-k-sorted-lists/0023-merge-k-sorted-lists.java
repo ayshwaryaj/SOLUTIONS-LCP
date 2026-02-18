@@ -34,7 +34,9 @@ upon Optimizing */
 *
 *
 *
-Space complexity is high 
+OPTIMIZING USING DIVIDE & CONQUER APPROACH
+
+Space complexity is still high 
 *
 *
 *
