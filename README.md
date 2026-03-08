@@ -7,6 +7,7 @@ LEETCODE PROBLEM SET SOLUTION
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0200-number-of-islands/) | Medium |
+| [0221-maximal-square](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0221-maximal-square/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,4 +24,9 @@ LEETCODE PROBLEM SET SOLUTION
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0200-number-of-islands/) | Medium |
+| [0221-maximal-square](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0221-maximal-square/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0221-maximal-square](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0221-maximal-square/) | Medium |
 <!---LeetCode Topics End-->
