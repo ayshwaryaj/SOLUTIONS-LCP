@@ -16,12 +16,14 @@ LEETCODE PROBLEM SET SOLUTION
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0200-number-of-islands/) | Medium |
 | [0743-network-delay-time](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0200-number-of-islands/) | Medium |
 | [0743-network-delay-time](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
@@ -39,6 +41,7 @@ LEETCODE PROBLEM SET SOLUTION
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0221-maximal-square](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0221-maximal-square/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +58,7 @@ LEETCODE PROBLEM SET SOLUTION
 | [0215-kth-largest-element-in-an-array](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,9 +80,11 @@ LEETCODE PROBLEM SET SOLUTION
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
