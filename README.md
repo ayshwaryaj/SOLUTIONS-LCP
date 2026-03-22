@@ -15,11 +15,13 @@ LEETCODE PROBLEM SET SOLUTION
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0200-number-of-islands/) | Medium |
+| [0743-network-delay-time](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0743-network-delay-time/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0200-number-of-islands/) | Medium |
+| [0743-network-delay-time](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0743-network-delay-time/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
@@ -52,6 +54,7 @@ LEETCODE PROBLEM SET SOLUTION
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0743-network-delay-time](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0743-network-delay-time/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,5 +75,10 @@ LEETCODE PROBLEM SET SOLUTION
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0743-network-delay-time/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
