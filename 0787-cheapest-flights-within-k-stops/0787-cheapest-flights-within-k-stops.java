@@ -1,7 +1,6 @@
 class Solution {
     public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {
         
-        // Step 1: Initialize distance array with a large value
         int[] prices = new int[n];
         Arrays.fill(prices, Integer.MAX_VALUE);
         prices[src] = 0;
