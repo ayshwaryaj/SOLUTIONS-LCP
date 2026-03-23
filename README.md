@@ -11,6 +11,7 @@ LEETCODE PROBLEM SET SOLUTION
 | [0221-maximal-square](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0221-maximal-square/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0994-rotting-oranges](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0994-rotting-oranges/) | Medium |
+| [0997-find-the-town-judge](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0997-find-the-town-judge/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -71,6 +72,7 @@ LEETCODE PROBLEM SET SOLUTION
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0997-find-the-town-judge](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0997-find-the-town-judge/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +86,7 @@ LEETCODE PROBLEM SET SOLUTION
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0997-find-the-town-judge](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0997-find-the-town-judge/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Shortest Path
 | Problem Name | Difficulty |
