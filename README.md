@@ -8,6 +8,7 @@ LEETCODE PROBLEM SET SOLUTION
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0200-number-of-islands](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0221-maximal-square](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0221-maximal-square/) | Medium |
@@ -48,6 +49,7 @@ LEETCODE PROBLEM SET SOLUTION
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0221-maximal-square](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0221-maximal-square/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Divide and Conquer
