@@ -6,6 +6,7 @@ LEETCODE PROBLEM SET SOLUTION
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0119-pascals-triangle-ii](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0200-number-of-islands](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0221-maximal-square](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0221-maximal-square/) | Medium |
@@ -44,6 +45,7 @@ LEETCODE PROBLEM SET SOLUTION
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0119-pascals-triangle-ii](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0221-maximal-square](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0221-maximal-square/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Divide and Conquer
