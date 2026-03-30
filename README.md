@@ -51,6 +51,7 @@ LEETCODE PROBLEM SET SOLUTION
 | [0119-pascals-triangle-ii](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0221-maximal-square](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0221-maximal-square/) | Medium |
+| [0509-fibonacci-number](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0509-fibonacci-number/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -103,6 +104,7 @@ LEETCODE PROBLEM SET SOLUTION
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0258-add-digits/) | Easy |
+| [0509-fibonacci-number](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0509-fibonacci-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,4 +113,12 @@ LEETCODE PROBLEM SET SOLUTION
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0258-add-digits/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
