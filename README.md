@@ -9,6 +9,7 @@ LEETCODE PROBLEM SET SOLUTION
 | [0118-pascals-triangle](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0136-single-number/) | Easy |
 | [0200-number-of-islands](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0221-maximal-square](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0221-maximal-square/) | Medium |
@@ -124,4 +125,8 @@ LEETCODE PROBLEM SET SOLUTION
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0509-fibonacci-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
