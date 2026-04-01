@@ -14,6 +14,7 @@ LEETCODE PROBLEM SET SOLUTION
 | [0215-kth-largest-element-in-an-array](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0221-maximal-square](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0221-maximal-square/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0994-rotting-oranges](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0997-find-the-town-judge/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -54,6 +55,7 @@ LEETCODE PROBLEM SET SOLUTION
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0221-maximal-square](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0221-maximal-square/) | Medium |
 | [0509-fibonacci-number](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0509-fibonacci-number/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
