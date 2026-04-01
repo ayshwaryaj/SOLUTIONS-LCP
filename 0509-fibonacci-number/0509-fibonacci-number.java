@@ -5,7 +5,7 @@ class Solution {
         int p2 =0;
         int p1 =1;
         int ans = 0;
-        for(int s= 2; s<n; s++)
+        for(int s= 2; s<=n; s++)
         {
             ans = p1+p2;
             p2=p1;
