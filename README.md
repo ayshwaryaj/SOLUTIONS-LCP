@@ -11,6 +11,7 @@ LEETCODE PROBLEM SET SOLUTION
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0136-single-number/) | Easy |
 | [0200-number-of-islands](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0200-number-of-islands/) | Medium |
+| [0204-count-primes](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0221-maximal-square](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0221-maximal-square/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -108,6 +109,7 @@ LEETCODE PROBLEM SET SOLUTION
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0070-climbing-stairs/) | Easy |
+| [0204-count-primes](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0509-fibonacci-number/) | Easy |
 ## Simulation
@@ -117,6 +119,7 @@ LEETCODE PROBLEM SET SOLUTION
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0258-add-digits/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -131,4 +134,8 @@ LEETCODE PROBLEM SET SOLUTION
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0136-single-number/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
