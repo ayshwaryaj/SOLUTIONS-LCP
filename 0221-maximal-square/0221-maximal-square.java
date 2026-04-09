@@ -1,4 +1,4 @@
-/*class Solution {
+class Solution {
     public int maximalSquare(char[][] matrix) {
         int ms= 0;
         int [][]m = new int [matrix.length][matrix[0].length]; 
@@ -27,14 +27,14 @@
         return ms * ms;
     }
 }
-*/
+
 
 
 
 /**********************************
 Fast but High space complexity
 *********************************
-*/
+
 class Solution {
     public int maximalSquare(char[][] matrix) {
         int ms = 0;
@@ -68,4 +68,4 @@ class Solution {
 
         return ms * ms;
     }
-}
+}*/
