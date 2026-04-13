@@ -147,11 +147,13 @@ LEETCODE PROBLEM SET SOLUTION
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0020-valid-parentheses/) | Easy |
 | [0412-fizz-buzz](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0412-fizz-buzz/) | Easy |
 | [0443-string-compression](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0443-string-compression/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0020-valid-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 <!---LeetCode Topics End-->
