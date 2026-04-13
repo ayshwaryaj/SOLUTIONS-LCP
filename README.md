@@ -146,4 +146,9 @@ LEETCODE PROBLEM SET SOLUTION
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0443-string-compression](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0443-string-compression/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 <!---LeetCode Topics End-->
