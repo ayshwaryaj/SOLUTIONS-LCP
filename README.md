@@ -111,11 +111,13 @@ LEETCODE PROBLEM SET SOLUTION
 | [0070-climbing-stairs](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0070-climbing-stairs/) | Easy |
 | [0204-count-primes](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0509-fibonacci-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0412-fizz-buzz/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +147,7 @@ LEETCODE PROBLEM SET SOLUTION
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0412-fizz-buzz/) | Easy |
 | [0443-string-compression](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0443-string-compression/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Stack
