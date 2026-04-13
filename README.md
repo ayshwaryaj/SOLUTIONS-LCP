@@ -138,4 +138,12 @@ LEETCODE PROBLEM SET SOLUTION
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0204-count-primes/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0443-string-compression](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0443-string-compression/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0443-string-compression](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0443-string-compression/) | Medium |
 <!---LeetCode Topics End-->
