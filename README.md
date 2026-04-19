@@ -14,6 +14,7 @@ LEETCODE PROBLEM SET SOLUTION
 | [0204-count-primes](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0221-maximal-square](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0221-maximal-square/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0994-rotting-oranges](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0994-rotting-oranges/) | Medium |
@@ -74,6 +75,7 @@ LEETCODE PROBLEM SET SOLUTION
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -170,8 +172,17 @@ LEETCODE PROBLEM SET SOLUTION
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
