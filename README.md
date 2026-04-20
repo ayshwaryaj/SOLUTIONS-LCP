@@ -15,6 +15,7 @@ LEETCODE PROBLEM SET SOLUTION
 | [0215-kth-largest-element-in-an-array](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0221-maximal-square](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0221-maximal-square/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0994-rotting-oranges](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0994-rotting-oranges/) | Medium |
@@ -65,6 +66,7 @@ LEETCODE PROBLEM SET SOLUTION
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -185,4 +187,24 @@ LEETCODE PROBLEM SET SOLUTION
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0239-sliding-window-maximum/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ayshwaryaj/SOLUTIONS-LCP/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 <!---LeetCode Topics End-->
